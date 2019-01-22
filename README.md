@@ -10,7 +10,7 @@ Python 3.5 and other common packages listed in `requirements.txt`.
 ``` pip install -r requirements.txt```
 
 ### 3. Run setup from the repository root directory
-``` python setup.py install ```
+``` python setup.py build_ext --inplace ```
 
 ### 4. Download yolo.weights
 download data from https://pjreddie.com/media/files/yolov2.weights
