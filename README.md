@@ -60,3 +60,6 @@ img = cv2.putText(img, label, tl, cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 0), 2)
 plt.imshow(img)
 plt.show()
 ~~~
+
+# Result
+![dog.png](https://postfiles.pstatic.net/MjAxOTAxMjJfMjgz/MDAxNTQ4MTM3Nzc2MzE1.qmu5CMeI62QOT4isoBknFmZBMC9JO9fqoEMla8_MiS4g.8wCu0dY6BM0iv6iDL3H3VkRBbjz_FSNT8iCRQ1wVl7Ag.PNG.nicetiger516/%EC%9D%B4%EB%AF%B8%EC%A7%80_1.png?type=w773)
