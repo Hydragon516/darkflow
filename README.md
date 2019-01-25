@@ -1,6 +1,6 @@
 # Requirements
 
-Python 3.5 and other common packages listed in `requirements.txt`.
+Python 3.5, CUDA 9.0, cudnn 7.3.1 and other common packages listed in `requirements.txt`.
 
 
 # Installation
